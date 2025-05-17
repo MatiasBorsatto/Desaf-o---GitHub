@@ -6,7 +6,7 @@ body {
 
 #Hero-Section {
   background-color: black;
-   background: linear-gradient(rgba(0, 0, 0, 0.606), rgba(0, 0, 0, 0.64)), url("../img/codigoFondo.jpg");
+  background: linear-gradient(rgba(0, 0, 0, 0.606), rgba(0, 0, 0, 0.64)), url("../img/codigoFondo.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
